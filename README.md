@@ -16,6 +16,6 @@ compound_interest = principal * (1 + rate / n) - principal
 # print the results
 print("Yusuf & Sons")
 
-print("Simple Interest: {:.2f}".format(compound_interest))
+print("Simple Interest: {:.2f}".format(simple_interest))
 
 print("Compound Interest:{:.2f}".format(compound_interest))
